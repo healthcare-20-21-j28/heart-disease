@@ -11,7 +11,7 @@ app = Flask(__name__)
 UPLOAD_FOLDER = './UPLOAD_FOLDER/'
 
 
-@app.route('/test')
+@app.route('/')
 def hello():
     return 'Hello'
 
