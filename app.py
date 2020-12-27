@@ -19,6 +19,8 @@ def hello():
 @app.route('/disease/heart/test', methods=['POST', 'GET'])
 def get_prob():
     
+    
+
 
 if __name__ == '__main__':
       app.run(port=8000)
