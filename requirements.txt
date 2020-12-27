@@ -1,2 +1,5 @@
-numpy==1.19.4
 pandas==0.25.3
+numpy==1.19.3
+Flask==1.1.2
+scikit_learn==0.20.4
+gunicorn

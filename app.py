@@ -1,22 +1,16 @@
 from flask import Flask, request, jsonify
-import os
-from datetime import datetime
-import numpy as np
-
 from predict import predict_prob
 from disease_description import disease_description
 
-
 app = Flask(__name__)
-UPLOAD_FOLDER = './UPLOAD_FOLDER/'
 
 
-@app.route('/test')
+@app.route('/')
 def hello():
-    return 'Hello'
+    return 'Welcome to healthCare app backend !'
 
 
-@app.route('/disease/heart/test', methods=['POST', 'GET'])
+@app.route('/disease/heart/test', methods=['POST'])
 def get_prob():
     print('method invoked')
     age = request.form['age']
@@ -32,7 +26,6 @@ def get_prob():
     slope = request.form['slope']
     ca = request.form['ca']
     thal = request.form['thal']
-    print("data retrived")
 
     probability = predict_prob(age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal)
 
@@ -45,5 +38,6 @@ def get_prob():
                     'treatement-1': description['treatement-1'],
                     'treatement-2': description['treatement-2']})
 
+
 if __name__ == '__main__':
-    app.run(port=8000)
+    app.run(debug=any)
