@@ -46,8 +46,6 @@ def predict_prob(age,	sex, cp, trestbps, chol, fbs, restecg, thalach, exang, old
     print(predicted_probability[0])
     return (predicted_probability[0][1] * 100)
 
-a = predict_prob(56, 1, 1, 120, 236, 0, 1, 178, 0, 0.8, 2, 0, 2)
-
 
 
 
