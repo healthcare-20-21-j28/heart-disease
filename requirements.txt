@@ -1,8 +1,5 @@
-opencv-python-headless==4.2.0.32
-numpy~=1.19.2
-flask~=1.1.2
-Keras~=2.1.5
-tensorflow==1.14
-protobuf==3.6.0
+pandas==0.25.3
+numpy==1.19.3
+Flask==1.1.2
+scikit_learn==0.20.4
 gunicorn
-h5py==2.10.0
