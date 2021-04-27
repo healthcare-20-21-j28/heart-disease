@@ -1,73 +1,73 @@
 {
     "10": {
-        "description":"probalility 10",
-        "symptoms": "Scars and Pigmentation",
-        "causes": "Risk factors for the development of acne, other than genetics, have not been conclusively identified. Possible secondary contributors include hormones, infections, diet and stress",
-        "treatement-1": "https://www.medicinenet.com/acne/article.htm#what_is_acne",
-        "treatement-2": "https://www.aad.org/public/diseases/acne-and-rosacea/rosacea/how-to-treat-the-redness"
+        "description":"Low probability of having a heart attack !",
+        "symptoms": "Squeezing chest pressure or pain, Jaw, neck or back pain, Nausea or vomiting, Shortness of breath",
+        "causes": "Drug misuse, Lack of oxygen in the blood (hypoxia), Dizziness or light-headedness.",
+        "treatement-1": "https://www.medicalnewstoday.com/articles/151444#treatments",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "20": {
-        "description":"probalility 20",
-        "symptoms": "Actinic keratoses (AKs) most commonly present as a white, scaly plaque of variable thickness with surrounding redness",
-        "causes": "The most important cause of AK formation is solar radiation, through a variety of mechanisms. ",
-        "treatement-1": "https://www.skincancer.org/skin-cancer-information/actinic-keratosis/actinic-keratosis-treatment-options",
-        "treatement-2": "https://www.skincancer.org/skin-cancer-information/basal-cell-carcinoma/bcc-treatment-options"
+        "description":"Low probability of having a heart attack !",
+        "symptoms": "Squeezing chest pressure or pain, Jaw, neck or back pain, Nausea or vomiting, Shortness of breath",
+        "causes": "Drug misuse, Lack of oxygen in the blood (hypoxia), Dizziness or light-headedness.",
+        "treatement-1": "https://www.medicalnewstoday.com/articles/151444#treatments",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "30": {
-        "description":"probalility 30",
-        "symptoms": "The symptoms of atopic dermatitis vary from person to person, the most common symptoms are dry, itchy, red skin. Typical affected skin areas include the folds of the arms, the back of the knees, wrists, face and hands. Perioral dermatitis refers to a red bumpy rash around the mouth.",
-        "causes": "The cause of dermatitis is unknown but is presumed to be a combination of genetic and environmental factors.",
-        "treatement-1": "https://www.medicalnewstoday.com/articles/14417.php",
-        "treatement-2": "https://nationaleczema.org/eczema/treatment/"
+        "description":"Low probability of having a heart attack !",
+        "symptoms": "Squeezing chest pressure or pain, Jaw, neck or back pain, Nausea or vomiting, Shortness of breath",
+        "causes": "Drug misuse, Lack of oxygen in the blood (hypoxia), Dizziness or light-headedness.",
+        "treatement-1": "https://www.medicalnewstoday.com/articles/151444#treatments",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "40": {
-        "description":"probalility 40",
-        "symptoms": "Early signs of melanoma are changes to the shape or color of existing moles or, in the case of nodular melanoma, the appearance of a new lump anywhere on the skin. At later stages, the mole may itch, ulcerate or bleed. Early signs of melanoma are summarized by the mnemonic ABCDEF Asymmetry Borders (irregular with edges and corners) Color (variegated) Diameter (greater than 6 mm (0.24 in), about the size of a pencil eraser) Evolving over time Funny looking",
-        "causes": "Melanomas are usually caused by DNA damage resulting from exposure to ultraviolet light from the sun. Genetics also plays a role.",
-        "treatement-1": "https://www.cancer.org/cancer/melanoma-skin-cancer/treating/by-stage.html",
-        "treatement-2": "https://www.melanoma.org/understand-melanoma/melanoma-treatment"
+        "description":"Low probability of having a heart attack !",
+        "symptoms": "Squeezing chest pressure or pain, Jaw, neck or back pain, Nausea or vomiting, Shortness of breath",
+        "causes": "Drug misuse, Lack of oxygen in the blood (hypoxia), Dizziness or light-headedness.",
+        "treatement-1": "https://www.medicalnewstoday.com/articles/151444#treatments",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "50": {
-        "description":"probalility 50",
-        "symptoms": "Plaque psoriasis typically appears as raised areas of inflamed skin covered with silvery-white scaly skin. These areas are called plaques and are most commonly found on the elbows, knees, scalp, and back.",
-        "causes": "The cause of psoriasis is not fully understood, but a number of theories exist.",
-        "treatement-1": "https://www.medicinenet.com/psoriasis/article.htm",
-        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/psoriasis/diagnosis-treatment/drc-20355845"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "60": {
-        "description":"probalility 60",
-        "symptoms": "Signs and symptoms of candidiasis vary depending on the area affected.[17] Most candidal infections result in minimal complications such as redness, itching, and discomfort, though complications may be severe or even fatal if left untreated in certain populations.",
-        "causes": "Candida yeasts are generally present in healthy humans, frequently part of the human body's normal oral and intestinal flora, and particularly on the skin; however, their growth is normally limited by the human immune system and by competition of other microorganisms, such as bacteria occupying the same locations in the human body.",
-        "treatement-1": "https://www.cdc.gov/fungal/diseases/candidiasis/thrush/index.html",
-        "treatement-2": "https://www.drugs.com/health-guide/candidiasis.html"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "70": {
-        "description":"probalility 70",
-        "symptoms": "Welts (raised areas surrounded by a red base) from hives can appear anywhere on the surface of the skin. Whether the trigger is allergic or not, a complex release of inflammatory mediators, including histamine from cutaneous mast cells, results in fluid leakage from superficial blood vessels.",
-        "causes": "Hives can also be classified by the purported causative agent. Many different substances in the environment may cause hives, including medications, food and physical agents. In perhaps more than 50% of people with chronic hives of unknown cause, it is due to an autoimmune reaction.[6]",
-        "treatement-1": "https://www.webmd.com/skin-problems-and-treatments/guide/hives-urticaria-angioedema",
-        "treatement-2": "https://acaai.org/allergies/types-allergies/hives-urticaria"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "80": {
-        "description":"probalility 80",
-        "symptoms": "You may have nail fungus if one or more of your nails are: Thickened, Whitish to yellow-brown discoloration, Brittle, crumbly or ragged, Distorted in shape, A dark color, caused by debris building up under your nail, Smelling slightly foul",
-        "causes": "Fungal nail infections are caused by various fungal organisms (fungi). The most common cause is a type of fungus called dermatophyte. Yeast and molds also can cause nail infections.",
-        "treatement-1": "https://www.mayoclinic.org/diseases-conditions/nail-fungus/symptoms-causes/syc-20353294",
-        "treatement-2": "https://www.healthline.com/health/fungal-nail-infection#prevention"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "90": {
-        "description":"probalility 90",
-        "symptoms": "You may have nail fungus if one or more of your nails are: Thickened, Whitish to yellow-brown discoloration, Brittle, crumbly or ragged, Distorted in shape, A dark color, caused by debris building up under your nail, Smelling slightly foul",
-        "causes": "Fungal nail infections are caused by various fungal organisms (fungi). The most common cause is a type of fungus called dermatophyte. Yeast and molds also can cause nail infections.",
-        "treatement-1": "https://www.mayoclinic.org/diseases-conditions/nail-fungus/symptoms-causes/syc-20353294",
-        "treatement-2": "https://www.healthline.com/health/fungal-nail-infection#prevention"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     },
     "100": {
-        "description":"probalility 100",
-        "symptoms": "You may have nail fungus if one or more of your nails are: Thickened, Whitish to yellow-brown discoloration, Brittle, crumbly or ragged, Distorted in shape, A dark color, caused by debris building up under your nail, Smelling slightly foul",
-        "causes": "Fungal nail infections are caused by various fungal organisms (fungi). The most common cause is a type of fungus called dermatophyte. Yeast and molds also can cause nail infections.",
-        "treatement-1": "https://www.mayoclinic.org/diseases-conditions/nail-fungus/symptoms-causes/syc-20353294",
-        "treatement-2": "https://www.healthline.com/health/fungal-nail-infection#prevention"
+        "description":"High probability of having a heart attack !",
+        "symptoms": "Chest pain – a sensation of pressure, tightness or squeezing in the centre of your chest ,pain in other parts of the body – it can feel as if the pain is travelling from your chest to your arms (usually the left arm is affected, but it can affect both arms), jaw, neck, back and tummy (abdomen) ,feeling lightheaded or dizzy ,sweating ,shortness of breath ,feeling sick (nausea) or being sick (vomiting) ,an overwhelming sense of anxiety (similar to having a panic attack) ,coughing or wheezing.",
+        "causes": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die",
+        "treatement-1": "https://www.nhs.uk/conditions/heart-attack/treatment/",
+        "treatement-2": "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
     }
     
 }
